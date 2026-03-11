@@ -8,7 +8,7 @@ This project is designed as a **beginner-friendly frontend project** to understa
 ---
 
 ## 🌐 Live Website
-You can access the live website here: https://tiny-semifreddo-e89fd5.netlify.app/
+You can access the live website here: https://jazzy-alfajores-adc2b5.netlify.app/
 
 
 ---
